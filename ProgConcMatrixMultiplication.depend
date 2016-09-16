@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1473986350 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\main.cpp
+	"Output.h"
+	"Matriz.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"OpenFile.h"
+	"stringToNumber.h"
+
+1473797134 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\output.h
+	<iostream>
+
+1473795338 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matriz.h
+	"MC_VALUES.h"
+	"Output.h"
+	"TimerChrono.h"
+
+1457628216 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\mc_values.h
+
+1473795092 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\timerchrono.h
+	<chrono>
+
+1473796593 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matriz.cpp
+	"Matriz.h"
+
+1473791920 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matrizc.cpp
+
+1473795219 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\timerchrono.cpp
+	"TimerChrono.h"
+
+1473796593 source:c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matriz.cpp
+	"Matriz.h"
+
+1473795338 c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matriz.h
+	"MC_VALUES.h"
+	"Output.h"
+	"TimerChrono.h"
+
+1457628216 c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\mc_values.h
+
+1473797134 c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\output.h
+	<iostream>
+
+1473795092 c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\timerchrono.h
+	<chrono>
+
+1473791920 source:c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\matrizc.cpp
+
+1473795219 source:c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\timerchrono.cpp
+	"TimerChrono.h"
+
+1473797999 source:c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\output.cpp
+	"Output.h"
+
+1473820214 source:c:\users\larissana\documents\mega do biel\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\main.cpp
+	"Output.h"
+	"Matriz.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1473797999 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\output.cpp
+	"Output.h"
+
+1473986212 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\openfile.cpp
+	"OpenFile.h"
+	<fstream>
+	<iostream>
+
+1473986154 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\openfile.h
+	<string>
+
+1424235827 source:c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\stringtonumber.cpp
+	"stringToNumber.h"
+
+1424236094 c:\users\bielcito\documents\mega\documentos\faculdade\programação concorrente\2016.2\progconcmatrixmultiplication\stringtonumber.h
+	<string>
+	<sstream>
+
